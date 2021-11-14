@@ -1,0 +1,5 @@
+#ifndef COMMANDS_H
+#define COMMANDS_H
+
+#define CONNECT_COMMAND 0xAA01
+#endif // COMMANDS_H
